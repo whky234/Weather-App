@@ -1,0 +1,29 @@
+.weather-container {
+  text-align: center;
+}
+
+.weather-details {
+  margin-top: 20px;
+}
+
+.weather-icon {
+  width: 100px;
+  height: 100px;
+}
+
+.error-message {
+  color: red;
+  margin-top: 20px;
+}
+
+.search-bar input {
+  padding: 10px;
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+.search-bar button {
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
